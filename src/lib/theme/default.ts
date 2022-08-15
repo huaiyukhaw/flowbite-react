@@ -79,7 +79,7 @@ export default {
     },
     statusPosition: {
       'bottom-left': '-bottom-1 -left-1',
-      'bottom-center': '-botton-1 center',
+      'bottom-center': '-bottom-1 center',
       'bottom-right': '-bottom-1 -right-1',
       'top-left': '-top-1 -left-1',
       'top-center': '-top-1 center',
